@@ -1,0 +1,56 @@
+﻿factotum  
+doctrines archaeology,astrology,history,linguistics,literature,philosophy,psychology,art,religion
+archaeology art,drawing,astrology,history,linguistics,literature,philosophy,plastic_arts,psychology,religion
+art dance,drawing,music,photography,plastic_arts,theatre
+drawing painting,philately
+astrology 
+history heraldry 
+linguistics grammar 
+literature philology 
+philosophy 
+plastic_arts jewellery,numismatics,sculpture
+psychology psychoanalysis
+religion mythology,occultism,theology 
+free_time play,sport
+play betting,card,chess
+betting 
+card 
+sport badminton,baseball,basketball,cricket,football,golf,rugby,soccer,table_tennis,tennis,volleyball,cycling,skating,skiing,hockey,mountaineering,rowing,swimming,sub,diving,racing,athletics,wrestling,boxing,fencing,archery,fishing,hunting,bowling
+racing  
+applied_science agriculture,alimentation,architecture,computer_science,engineering,medicine,veterinary
+alimentation gastronomy
+architecture town_planning,building_industry,furniture
+engineering mechanics,astronautics,electrotechnics,hydraulics
+mechanics 
+medicine dentistry,pharmacy,psychiatry,radiology,surgery
+veterinary zootechnics
+pure_science astronomy,biology,chemistry,earth,mathematics,physics
+astronomy topography
+biology biochemistry,ecology,botany,zoology,anatomy,physiology,genetics
+botany 
+chemistry 
+earth geology,meteorology,oceanography,paleontology,geography
+mathematics geometry
+physics acoustics,atomic_physic,electricity,optics
+zoology entomology
+geography  
+social_science administration,anthropology,artisanship,body_care,commerce,economy,fashion,industry,law,military,pedagogy,politics,publishing,sexuality,sociology,telecommunication,tourism,transport
+administration 
+anthropology ethnology
+ethnology folklore
+artisanship 
+body_care 
+commerce 
+economy banking,book_keeping,enterprise,exchange,insurance,money,tax
+fashion 
+industry 
+law state
+military 
+pedagogy school,university
+politics diplomacy
+publishing 
+sexuality 
+sociology 
+telecommunication cinema,post,radio,telegraphy,telephony,tv
+tourism 
+transport aeronautic,auto,merchant_navy,railway
